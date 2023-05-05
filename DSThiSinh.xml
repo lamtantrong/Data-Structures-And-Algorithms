@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSSV>
+	<ThiSinh>
+		<SBD>TH001</SBD>
+		<HT>Nguyễn Gia Long</HT>
+		<NamSinh>1992</NamSinh>
+		<Toan>9.2</Toan>
+		<Van>6.5</Van>
+		<NN>8.0</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>TH002</SBD>
+		<HT>Huỳnh Trọng Nghĩ</HT>
+		<NamSinh>2003</NamSinh>
+		<Toan>10.0</Toan>
+		<Van>7.5</Van>
+		<NN>5.0</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>TH003</SBD>
+		<HT>Võ Gia Huy</HT>
+		<NamSinh>1992</NamSinh>
+		<Toan>7.5</Toan>
+		<Van>8.4</Van>
+		<NN>9.2</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>Th004</SBD>
+		<HT>Trương Mỹ Huyền</HT>
+		<NamSinh>2004</NamSinh>
+		<Toan>7.8</Toan>
+		<Van>7.5</Van>
+		<NN>8.4</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>TH005</SBD>
+		<HT>Phạm Hồng Đào</HT>
+		<NamSinh>1994</NamSinh>
+		<Toan>9.5</Toan>
+		<Van>6.4</Van>
+		<NN>7.8</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>Th006</SBD>
+		<HT>Lê Kiều</HT>
+		<NamSinh>2003</NamSinh>
+		<Toan>4.5</Toan>
+		<Van>7.5</Van>
+		<NN>6.0</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>Th007</SBD>
+		<HT>Nguyễn Thùy Dương</HT>
+		<NamSinh>2003</NamSinh>
+		<Toan>4.5</Toan>
+		<Van>7.5</Van>
+		<NN>6.0</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>Th008</SBD>
+		<HT>Trần Quang Phước</HT>
+		<NamSinh>2001</NamSinh>
+		<Toan>6.5</Toan>
+		<Van>7.9</Van>
+		<NN>9.0</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>Th009</SBD>
+		<HT>Trần văn Nam</HT>
+		<NamSinh>2000</NamSinh>
+		<Toan>9.5</Toan>
+		<Van>7.5</Van>
+		<NN>6.0</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>Th0010</SBD>
+		<HT>Nguyễn Bích Ngân</HT>
+		<NamSinh>1899</NamSinh>
+		<Toan>8.3</Toan>
+		<Van>4.6</Van>
+		<NN>6.0</NN>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>Th0011</SBD>
+		<HT>Ngô Huy</HT>
+		<NamSinh>2003</NamSinh>
+		<Toan>5.2</Toan>
+		<Van>2.5</Van>
+		<NN>6.0</NN>
+	</ThiSinh>
+</DSSV>
